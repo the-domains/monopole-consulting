@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Monopole Consulting]]></title>
         <description><![CDATA[Monopole Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/monopole-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 06:15:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 06:21:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/monopole-consulting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Wine Investment</p>]]></description>
-            <link>undefinedcab0e6a3-2626-4643-b024-f4dbcbf4d87a/index.html</link>
+            <link>https://thegrid.ai/monopole-consulting/cab0e6a3-2626-4643-b024-f4dbcbf4d87a/index.html</link>
             <guid isPermaLink="false">cab0e6a3-2626-4643-b024-f4dbcbf4d87a</guid>
-            <pubDate>Thu, 18 Feb 2016 06:15:57 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 06:21:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
